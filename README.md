@@ -4,7 +4,7 @@ Source code of NA-LOAM: Normal-based Adaptive LiDAR Odometry and Mapping
 
 The code and relavent materials will be uploaded upon acceptance of the paper.
 
-
+We firstly open sourced the code [Ground FALS normal estimator](https://github.com/BuaaYfl/Ground-FALS)
 ## 1. Prerequisites
 ### 1.1 **Ubuntu** and **ROS**
 **Ubuntu >= 18.04**
